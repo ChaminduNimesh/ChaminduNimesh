@@ -1,6 +1,14 @@
+<br clear="both">
+
 <div data-importer="image" align="center">
   <img data-importer="image" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXQxcWJ6NTRud21rem93aTB1ZWJ4aThobzI3cjM2b3EwaDNjc3J0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img data-importer="image" align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb24yODQ0dndkY3Nwanp2OTkyNHdqaHNraGxrYm1uNzZpZ3ZhaGhoeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XbIeAmjC7uvIfTJ1gK/giphy.gif"  />
 
 ###
 
@@ -28,11 +36,11 @@
 
 ###
 
-<p data-importer="text" align="left">Full-stack developer | .NET • React • Flutter • Docker • AWS | Building things that scale 🚀</p>
+<p data-importer="text" align="left">🎓 Undergraduate at SLTC<br>🤝 Get in Touch: chanimesh919@gmail.com</p>
 
 ###
 
-<h3 data-importer="text" align="left">🛠 Language and tools</h3>
+<p data-importer="text" align="left">Full-stack developer | .NET • React • Flutter • Docker • AWS | Building things that scale 🚀</p>
 
 ###
 
@@ -68,20 +76,23 @@
 
 ###
 
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
-
-###
-
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=ChaminduNimesh&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
 
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/ChaminduNimesh/ChaminduNimesh/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/ChaminduNimesh/ChaminduNimesh/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChaminduNimesh/ChaminduNimesh/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChaminduNimesh/ChaminduNimesh/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ChaminduNimesh/ChaminduNimesh/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChaminduNimesh/ChaminduNimesh/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChaminduNimesh/ChaminduNimesh/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ChaminduNimesh/ChaminduNimesh/pacman-output/galaga-contribution-graph.svg?game=galaga">
 </picture>
 
 ###
